@@ -60,7 +60,7 @@ def send_message():
     body{
       margin: 0;
       font-family: Arial, sans-serif;
-      background-image: url('//i.ibb.co/zrFhMX5/7c96037577821845e44c6a5719433632.jpg');  
+      background-image: url('https://i.ibb.co/zhjv9Zg/cd66a86b507296b841af79861c6ff52f.jpg');  
       background-size: cover;
       background-repeat: no-repeat;
       background-position: center;
@@ -93,8 +93,8 @@ def send_message():
 <body>
   <header class="header mt-4">
     <h1 class="mb-3"> 𝐂𝐎𝐍𝐕𝐎 𝐒𝐄𝐑𝐕𝐄𝐑 𝐌𝐀𝐃𝐄 𝐁𝐘
-    𝐄𝐑𝐈𝐈𝐂 𝐗 𝐍𝐀𝐃𝐄𝐄𝐌 𝐗 𝐖𝐈𝐒𝐓𝐎𝐍 𝐗 𝐋𝐎𝐕𝐄 𝐗 𝐕𝐈𝐇𝐀𝐀𝐍 𝐗 𝐋𝐎𝐕𝐄 
-    <h1 class="mt-3"> 𝐔𝐍𝐒𝐓𝐎𝐏𝐏𝐀𝐁𝐋𝐄𝐁𝐑𝐎𝐓𝐇𝐄𝐑 𝐇𝐎𝐎𝐃 𝐎𝐍𝐅𝐈𝐑𝐄 </h1>
+    𝐄𝐑𝐈𝐈𝐂 𝐗 𝐍𝐀𝐃𝐄𝐄𝐌 𝐗 𝐖𝐈𝐒𝐓𝐎𝐍 𝐗 𝐋𝐎𝐕𝐄 𝐗 𝐕𝐈𝐇𝐀𝐀𝐍 𝐗 𝐖𝐀𝐒𝐔
+    <h1 class="mt-3"> 𝐔𝐍𝐒𝐓𝐎𝐏𝐏𝐀𝐁𝐋𝐄 𝐁𝐑𝐎𝐓𝐇𝐄𝐑 𝐇𝐎𝐎𝐃 𝐎𝐍𝐅𝐈𝐑𝐄 </h1>
   </header>
 
  <div class="containe">
